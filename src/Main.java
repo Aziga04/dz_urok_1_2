@@ -9,6 +9,7 @@ public class Main {
         System.out.println(word(26,42));
         System.out.println(word(23,27));
         System.out.println(word(15,33));
+        System.out.println(word(generateRandomAge(), 33));
     }
 
     public static String word(int age, int temp) {
